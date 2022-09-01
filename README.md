@@ -46,3 +46,6 @@ Code released under the MIT License, https://github.com/twbs/bootstrap/blob/main
 This project was created by Adilson Vital 
 Linkedin: https://www.linkedin.com/in/adilsonvital/
 Personal: http://adilsonvital.me/
+
+## 7. Medium Post
+https://adilson-vital.medium.com/how-to-choose-the-best-airbnb-in-seattle-city-using-machine-learning-dfaafa755b65
